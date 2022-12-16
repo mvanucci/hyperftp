@@ -10,5 +10,5 @@ This cli is to turn more easy my job
 *  <host>        What serverhost will connect
 *  <directory>   What path will upload file
 * -h=<server>       This is FTP Server
-*  -p=<path>         This is FTP Server
+*  -p=<path>         This is what path in FTP Server
 *  -u=<upload>       Upload file to ftp server
