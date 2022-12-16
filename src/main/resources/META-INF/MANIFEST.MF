@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: br.com.hyperdev.FtpCli
+Class-Path: jackson-annotations-2.13.3.jar commons-net-3.9.0.jar picocli-4.7.0.jar ini4j-0.5.4.jar
+
